@@ -1,17 +1,18 @@
-## Hi there 👋
-I'm Anukreeti Singh, 
+👋 Hey, I am Anukreeti Singh
 
-<!--
-**anukreetis-tech/anukreetis-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering[Core] Student
+📅 Year: 2025-2029
 
-Here are some ideas to get you started:
+💡 About Me
+I'm a curious student who’s currently exploring the world of technology and development. I enjoy learning new concepts, solving problems, and gradually improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Working On
+🌱 Currently learning the basics and building small projects
+💻 Exploring programming and development tools
+🧠 Trying to improve problem-solving and logical thinking
+
+🎯 My Goal
+I want to become a confident developer who can build meaningful and real-world projects, and continuously grow by learning new technologies.
+
+⚡ Fun Fact
+I believe consistency beats talent — just trying to get 1% better every day.
