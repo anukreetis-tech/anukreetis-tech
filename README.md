@@ -1,4 +1,4 @@
-👋 Hey, I am Anukreeti Singh
+#👋 Hey, I am Anukreeti Singh
 
 🎓 B.Tech Computer Science and Engineering[Core] Student
 📅 Year: 2025-2029
